@@ -1,0 +1,584 @@
+﻿IN+1, Entrée - Chèque
+IN+2, Entrée - Débit direct A
+IN+3, Entrée - Transfert bancaire
+IN+5, Entrée - Lockbox *2
+IN+7, Entrée - Lettre de crédit
+IN+9, Entrée - Banque Giro
+IN+B, Entrée - SEPA DD - B2B
+IN+C, Chèque sortant imprimé à l’interne
+IN+E, Paiement en espèces
+IN+F, FINEDI toutes les devises
+IN+I, Entrée - SEPA DD - CORE
+IN+J, Crédit direct pour les clients DD
+IN+K, Débit direct sortant
+IN+L, Paiement sortant des virements urgents (R
+IN+M, Manuel de paiement sortant
+IN+N, Paiement manuel sortant CIBC
+IN+O, Paiements contrôlés des fournisseurs
+IN+Q, Chèques sortants imprimés à la banque
+IN+T, Transfert bancaire extérieur sortant
+IN+U, Paiement urgent sortant
+IN+X, Transférabilité de la banque intérieure sortante
+IN+Z, Paiement en USD
+AE+0, Entrée - Débit direct B
+AE+1, Entrée - Chèque
+AE+2, Entrée - Débit direct A
+AE+3, Entrée - Transfert bancaire
+AE+7, Entrée - Lettre de crédit
+AE+9, Entrée - Banque Giro
+AE+B, Entrée - SEPA DD - B2B
+AE+E, Paiement SEPA sortant
+AE+I, Entrée - SEPA DD - CORE
+AE+J, Crédit direct pour les clients DD
+AE+L, Paiement sortant des virements urgents (R
+AE+O, Paiements contrôlés des fournisseurs
+AE+Q, Chèques sortants imprimés à la banque
+AE+S, MÊME DÉGAGEMENT BANCAIRE
+AE+T, Transfert bancaire extérieur sortant
+AE+X, Transférabilité de la banque intérieure sortante
+AE+Z, Paiement en USD
+EG+1, Entrée - Chèque
+EG+2, Entrée - Débit direct A
+EG+3, Entrée - Transfert bancaire
+EG+J, Crédit direct pour les clients DD
+EG+K, Débit direct sortant
+EG+L, Paiement sortant des virements urgents (R
+EG+M, Paiement manuel sortant
+EG+O, Paiements contrôlés des fournisseurs
+EG+Q, Chèques sortants imprimés à la banque
+EG+S, MÊME DÉGAGEMENT BANCAIRE
+EG+T, Transfert bancaire extérieur sortant
+EG+X, Transférabilité de la banque intérieure sortante
+EG+Z, Paiement en USD
+GB+0, Entrée - Débit direct B
+GB+1, Entrée - Chèque
+GB+2, Entrée - Débit direct A
+GB+3, Entrée - Transfert bancaire
+GB+4, Entrant - Argent comptant
+GB+5, Entrée - Lockbox *2
+GB+6, Entrée - Carte de crédit *1
+GB+7, Entrée - Lettre de crédit
+GB+8, Entrée - Nomenclature d'échange
+GB+9, Entrée - Banque Giro
+GB+B, Entrée - SEPA DD - B2B
+GB+C, Chèque sortant imprimé à l’interne
+GB+E, Transfert bancaire SEPA sortant
+GB+H, Espèces internes
+GB+J, Crédit direct pour les clients DD
+GB+K, Débit direct sortant
+GB+L, Paiement sortant des virements urgents (R
+GB+O, Paiements contrôlés des fournisseurs
+GB+Q, Chèques sortants imprimés à la banque
+GB+S, MÊME DÉGAGEMENT BANCAIRE
+GB+T, Transfert bancaire extérieur sortant
+GB+U, Paiement urgent sortant
+GB+V, International - Dédouanement
+GB+X, Transférabilité de la banque intérieure sortante
+GB+Z, Paiement en USD
+BG+0, Entrée - Débit direct B
+BG+1, Entrée - Chèque
+BG+2, Entrée - Débit direct A
+BG+3, Entrée - Transfert bancaire
+BG+4, Entrant - Argent comptant
+BG+5, Entrée - Lockbox *2
+BG+6, Entrée - Carte de crédit *1
+BG+7, Entrée - Lettre de crédit
+BG+8, Entrée - Nomenclature d'échange
+BG+9, Entrée - Banque Giro
+BG+C, Chèque sortant imprimé à l’interne
+BG+D, Crédit TEF/ACH CCD+
+BG+F, FBGEDI toutes les devises
+BG+J, Crédit direct pour les clients DD
+BG+K, Débit direct sortant
+BG+L, Paiement sortant des virements urgents (R
+BG+M, Manuel de paiement sortant
+BG+N, Paiement manuel sortant CIBC
+BG+O, Paiements contrôlés des fournisseurs
+BG+Q, Chèques sortants imprimés à la banque
+BG+R, Chèques urgents
+BG+T, Transfert bancaire extérieur sortant
+BG+W, Entrée - Spl. Transfert de fonds
+BG+X, Transférabilité de la banque intérieure sortante
+BG+Z, Paiement en USD
+CZ+0, Entrée - Débit direct B
+CZ+1, Entrée - Chèque
+CZ+2, Entrée - Débit direct A
+CZ+3, Entrée - Transfert bancaire
+CZ+4, Entrant - Argent comptant
+CZ+5, Entrée - Lockbox *2
+CZ+6, Entrée - Carte de crédit *1
+CZ+7, Entrée - Lettre de crédit
+CZ+8, Entrée - Nomenclature d'échange
+CZ+9, Entrée - Banque Giro
+CZ+C, Chèque sortant imprimé à l’interne
+CZ+D, Crédit TEF/ACH CCD+
+CZ+F, FCZEDI toutes les devises
+CZ+J, Crédit direct pour les clients DD
+CZ+K, Débit direct sortant
+CZ+L, Paiement sortant des virements urgents (R
+CZ+M, Manuel de paiement sortant
+CZ+N, Paiement manuel sortant CIBC
+CZ+O, Paiements contrôlés des fournisseurs
+CZ+Q, Chèques sortants imprimés à la banque
+CZ+R, Chèques urgents
+CZ+T, Transfert bancaire extérieur sortant
+CZ+W, Entrée - Spl. Transfert de fonds
+CZ+X, Transférabilité de la banque intérieure sortante
+CZ+Z, Paiement en USD
+DE+0, Entrée - Débit direct B
+DE+1, Entrée - Chèque
+DE+2, Entrée - Débit direct A
+DE+3, Entrée - Transfert bancaire
+DE+4, Entrant - Argent comptant
+DE+5, Entrée - Lockbox *2
+DE+7, Entrée - Lettre de crédit
+DE+8, Entrée - Nomenclature d'échange
+DE+9, Entrée - Banque Giro
+DE+B, Entrée - SEPA DD - B2B
+DE+C, Chèque sortant imprimé à l’interne
+DE+H, Espèces internes
+DE+I, Entrée - SEPA DD - CORE
+DE+J, Crédit direct pour les clients DD
+DE+K, Débit direct sortant
+DE+L, Paiement sortant des virements urgents (R
+DE+O, Paiements contrôlés des fournisseurs
+DE+Q, Chèques sortants imprimés à la banque
+DE+T, Transfert bancaire extérieur sortant
+DE+U, Paiement urgent sortant
+DE+X, Transférabilité de la banque intérieure sortante
+DE+Z, Paiement en USD
+US+0, Entrée - Débit direct B
+US+1, Entrée - Chèque
+US+2, Entrée - Débit direct A
+US+3, Entrée - Transfert bancaire
+US+4, Entrant - Argent comptant
+US+5, Entrée - Lockbox *2
+US+6, Entrée - Carte de crédit *1
+US+7, Entrée - Lettre de crédit
+US+8, Entrée - Nomenclature d'échange
+US+9, Entrée - Banque Giro
+US+B, Entrée - SEPA DD - B2B
+US+C, Chèque sortant imprimé à l’interne
+US+J, Crédit direct pour les clients DD
+US+K, Débit direct sortant
+US+O, Paiements contrôlés des fournisseurs
+US+P, Crédit ACH PPD
+US+Q, Chèques sortants imprimés à la banque
+US+T, Transfert bancaire extérieur sortant
+US+U, Paiement urgent sortant
+US+X, Transférabilité de la banque intérieure sortante
+US+Z, Paiement en USD
+SA+0, Entrée - Débit direct B
+SA+1, Entrée - Chèque
+SA+2, Entrée - Débit direct A
+SA+3, Entrée - Transfert bancaire
+SA+4, Entrant - Argent comptant
+SA+9, Entrée - Banque Giro
+SA+B, Entrée - SEPA DD - B2B
+SA+I, Entrée - SEPA DD - CORE
+SA+Z, Paiement en USD
+SG+0, Entrée - Débit direct B
+SG+1, Entrée - Chèque
+SG+2, Entrée - Débit direct A
+SG+3, Entrée - Transfert bancaire
+SG+4, Entrant - Argent comptant
+SG+5, Entrée - Lockbox *2
+SG+6, Entrée - Carte de crédit *1
+SG+7, Entrée - Lettre de crédit
+SG+8, Entrée - Nomenclature d'échange
+SG+9, Entrée - Banque Giro
+SG+B, Entrée - SEPA DD - B2B
+SG+E, Transfert bancaire SEPA sortant
+SG+I, Entrée - SEPA DD - CORE
+SG+J, Crédit direct pour les clients DD
+SG+K, Débit direct sortant
+SG+L, Paiement sortant des virements urgents (R
+SG+M, Manuel de paiement sortant
+SG+O, Paiements contrôlés des fournisseurs
+SG+Q, Chèques sortants imprimés à la banque
+SG+S, Paiement étranger spécial pour les manutentionnaires
+SG+T, Transfert bancaire extérieur sortant
+SG+U, Paiement urgent sortant
+SG+V, International - Dédouanement
+SG+X, Transférabilité de la banque intérieure sortante
+SG+Z, Paiement dans SGD
+BE+0, Entrée - Débit direct B
+BE+1, Chèque
+BE+2, Domiciliation
+BE+3, Entrée - Transfert bancaire
+BE+4, Espèces
+BE+5, Boîte de verrouillage
+BE+6, Entrée - Carte de crédit *1
+BE+7, Entrée - Lettre de crédit
+BE+8, Entrée - Nomenclature d'échange
+BE+9, Entrée - Banque Giro
+BE+B, Domiciliation (B2B)
+BE+D, Collection client - Domicil.
+BE+E, Transfert bancaire SEPA sortant
+BE+F, Transferts bancaires étrangers
+BE+I, Entrée - Banque Giro
+BE+J, Crédit direct pour les clients DD
+BE+K, Débit direct sortant
+BE+O, Paiements contrôlés des fournisseurs
+BE+T, Transfert bancaire extérieur sortant
+BE+U, Paiement urgent sortant
+BE+X, Banque intérieure sortanteTransfert
+BE+Z, Paiement en USD
+PH+0, Entrée - Débit direct B
+PH+1, Entrée - Chèque
+PH+2, Entrée - Débit direct A
+PH+3, Entrée - Transfert bancaire
+PH+4, Entrant - Argent comptant
+PH+5, Entrée - Lockbox *2
+PH+6, Entrée - Carte de crédit *1
+PH+7, Entrée - Lettre de crédit
+PH+8, Entrée - Nomenclature d'échange
+PH+9, Entrée - Banque Giro
+PH+B, Entrée - SEPA DD - B2B
+PH+C, Chèque sortant imprimé à l’interne
+PH+I, Entrée - SEPA DD - CORE
+PH+J, Crédit direct pour les clients DD
+PH+K, Débit direct sortant
+PH+L, Paiement sortant des virements urgents (R
+PH+O, Paiements contrôlés des fournisseurs
+PH+Q, Chèques sortants imprimés à la banque
+PH+S, Paiement étranger spécial pour les manutentionnaires
+PH+T, Transfert bancaire extérieur sortant
+PH+U, Paiement urgent sortant
+PH+W, Entrée - Spl. Transfert de fonds
+PH+X, Transférabilité de la banque intérieure sortante
+PH+Z, Paiement en USD
+ES+0, Entrée - Débit direct B
+ES+1, Entrée - Chèque
+ES+2, Entrée - Débit direct A
+ES+3, Entrée - Transfert bancaire
+ES+8, Entrée - Nomenclature d'échange
+ES+9, Entrée - Banque Giro
+ES+B, Entrée - SEPA DD - B2B
+ES+C, Chèque sortant imprimé à l’interne
+ES+D, Crédit ACH CCD+
+ES+E, Transfert bancaire SEPA sortant
+ES+H, Espèces internes
+ES+I, Entrée - SEPA DD - CORE
+ES+J, Crédit direct pour les clients DD
+ES+K, Débit direct sortant
+ES+L, Paiement sortant des virements urgents (R
+ES+M, Manuel de paiement sortant
+ES+N, Paiements d’impôt manuels - Par SCB
+ES+O, Paiements contrôlés des fournisseurs
+ES+Q, Chèques sortants imprimés à la banque
+ES+P, Crédit ACH PPD
+ES+T, Transfert bancaire extérieur sortant
+ES+U, Paiement urgent sortant
+ES+X, Transférabilité de la banque intérieure sortante
+ES+Z, Paiement dans ESD
+LU+1, Entrée - Chèque
+LU+2, Entrée - Débit direct A
+LU+3, Entrée - Transfert bancaire
+LU+4, Entrant - Argent comptant
+LU+5, Entrée - Lockbox *2
+LU+6, Entrée - Carte de crédit *1
+LU+7, Entrée - Lettre de crédit
+LU+8, Entrée - Nomenclature d'échange
+LU+9, Entrée - Banque Giro
+LU+B, Entrée - SEPA DD - B2B
+LU+C, Chèque sortant imprimé à l’interne
+LU+D, débit direct
+LU+E, Transfert bancaire SEPA sortant
+LU+I, Entrée - SEPA DD - CORE
+LU+J, Crédit direct pour les clients DD
+LU+K, Débit direct sortant
+LU+O, Paiements contrôlés des fournisseurs
+LU+Q, Chèques sortants imprimés à la banque
+LU+T, Transfert bancaire extérieur sortant
+LU+U, Paiement urgent sortant
+LU+X, Transférabilité de la banque intérieure sortante
+LU+Z, Paiement en USD
+CA+0, Entrée - Débit direct B
+CA+1, Entrée - Chèque
+CA+2, Entrée - Débit direct A
+CA+3, Entrée - Transfert bancaire
+CA+4, Entrant - Argent comptant
+CA+5, Entrée - Lockbox *2
+CA+6, Entrée - Carte de crédit *1
+CA+7, Entrée - Lettre de crédit
+CA+8, Entrée - Nomenclature d'échange
+CA+9, Entrée - Banque Giro
+CA+C, Chèque sortant imprimé à l’interne
+CA+D, Crédit TEF/ACH CCD+
+CA+F, FINEDI toutes les devises
+CA+J, Crédit direct pour les clients DD
+CA+K, Débit direct sortant
+CA+L, Paiement sortant des virements urgents (R
+CA+M, Manuel de paiement sortant
+CA+N, Paiement manuel sortant CIBC
+CA+O, Paiements contrôlés des fournisseurs
+CA+Q, Chèques sortants imprimés à la banque
+CA+R, Chèques urgents
+CA+T, Transfert bancaire extérieur sortant
+CA+W, Entrée - Spl. Transfert de fonds
+CA+X, Transférabilité de la banque intérieure sortante
+CA+Z, Paiement en USD
+FR+0, Entrée - Débit direct B
+FR+1, Entrée - Chèque
+FR+2, Entrée - Débit direct A
+FR+3, Entrée - Transfert bancaire
+FR+4, Entrant - Argent comptant
+FR+5, Entrée - Lockbox *2
+FR+6, Entrée - Carte de crédit *1
+FR+7, Entrée - Lettre de crédit
+FR+8, Entrée - Nomenclature d'échange
+FR+9, Entrée - Banque Giro
+FR+B, Entrée - SEPA DD - B2B
+FR+C, Chèque sortant imprimé à l’interne
+FR+E, Transfert bancaire SEPA sortant
+FR+I, Entrée - SEPA DD - CORE
+FR+J, Crédit direct pour les clients DD
+FR+K, Débit direct sortant
+FR+L, Paiement sortant des virements urgents (R
+FR+M, Manuel de paiement sortant
+FR+O, Paiements contrôlés des fournisseurs
+FR+Q, Chèques sortants imprimés à la banque
+FR+T, Transfert bancaire extérieur sortant
+FR+U, Paiement urgent sortant
+FR+V,International - Dédouanement
+FR+X, Transférabilité de la banque intérieure sortante
+FR+Z, Paiement en FRD
+ID+1, Entrée - Chèque
+ID+2, Entrée - Débit direct A
+ID+3, Entrée - Transfert bancaire
+ID+4, Entrant - Argent comptant
+ID+5, Entrée - Lockbox *2
+ID+6, Entrée - Carte de crédit *1
+ID+7, Entrée - Lettre de crédit
+ID+8, Entrée - Nomenclature d'échange
+ID+9, Entrée - Banque Giro
+ID+B, Entrée - SEPA DD - B2B
+ID+C, Chèque sortant imprimé à l’interne
+ID+E, Transfert bancaire SEPA sortant
+ID+I, Entrée - SEPA DD - CORE
+ID+J, Crédit direct pour les clients DD
+ID+K, Débit direct sortant
+ID+L, Paiement sortant des virements urgents (R
+ID+O, Paiements contrôlés des fournisseurs
+ID+Q, Chèques sortants imprimés à la banque
+ID+S, MÊME DÉGAGEMENT BANCAIRE
+ID+T, Transfert bancaire extérieur sortant
+ID+U, Paiement urgent sortant
+ID+X, Transférabilité de la banque intérieure sortante
+ID+Z, Paiement dans IDD
+IT+0, Entrée - Débit direct B
+IT+1, Entrée - Chèque
+IT+2, Entrée - Débit direct A
+IT+3, Entrée - Transfert bancaire
+IT+4, Entrant - Argent comptant
+IT+5, Entrée - Lockbox *2
+IT+6, Entrée - Carte de crédit *1
+IT+7, Entrée - Lettre de crédit
+IT+8, Entrée - Nomenclature d'échange
+IT+9, Entrée - Banque Giro
+IT+B, Entrée - SEPA DD - B2B
+IT+E, Transfert bancaire SEPA sortant
+IT+G, Giro
+IT+I, Entrée - SEPA DD - CORE
+IT+J, Crédit direct pour les clients DD
+IT+K, Débit direct sortant
+IT+L, Paiement sortant des virements urgents (R
+IT+M, Manuel de paiement sortant
+IT+N, Paiement manuel sortant CIBC
+IT+O, Paiements contrôlés des fournisseurs
+IT+T, Transfert bancaire extérieur sortant
+IT+U, Paiement urgent sortant
+IT+W, Transfert du plus grand nombre d’employés des TI
+IT+X, Transférabilité de la banque intérieure sortante
+IT+Z, Paiement dans ITD
+MY+0, Entrée - Débit direct B
+MY+1, Entrée - Chèque
+MY+2, Entrée - Débit direct A
+MY+3, Entrée - Transfert bancaire
+MY+4, Entrant - Argent comptant
+MY+5, Entrée - Lockbox *2
+MY+6, Entrée - Carte de crédit *1
+MY+7, Entrée - Lettre de crédit
+MY+8, Entrée - Nomenclature d'échange
+MY+9, Entrée - Banque Giro
+MY+B, Entrée - SEPA DD - B2B
+MY+C, Chèque sortant imprimé à l’interne
+MY+I, Entrée - SEPA DD - CORE
+MY+J, Crédit direct pour les clients DD
+MY+K, Débit direct sortant
+MY+L, Paiement sortant des virements urgents (R
+MY+M, Manuel de paiement sortant
+MY+N, Paiement manuel sortant CIBC
+MY+O, Paiements contrôlés des fournisseurs
+MY+Q, Chèques sortants imprimés à la banque
+MY+S, Paiement étranger spécial pour les manutentionnaires
+MY+T, Transfert bancaire extérieur sortant
+MY+U, Paiement urgent sortant
+MY+W, Entrée - Spl. Transfert de fonds
+MY+X, Transférabilité de la banque intérieure sortante
+NL+0, Entrée - Débit direct B
+NL+1, Entrée - Chèque
+NL+2, Entrée - Débit direct A
+NL+3, Entrée - Transfert bancaire
+NL+4, Entrant - Argent comptant
+NL+5, Entrée - Lockbox *2
+NL+6, Entrée - Carte de crédit *1
+NL+7, Entrée - Lettre de crédit
+NL+8, Entrée - Nomenclature d'échange
+NL+9, Entrée - Banque Giro
+NL+A, Vérifier
+NL+B, Entrée - SEPA DD - B2B
+NL+E, Transfert bancaire SEPA sortant
+NL+I, Entrée - SEPA DD - CORE
+NL+J, Crédit direct pour les clients DD
+NL+K, Débit direct sortant
+NL+L, Paiement sortant des virements urgents (R
+NL+M, Manuel de paiement sortant
+NL+O, Paiements contrôlés des fournisseurs
+NL+P, Paiements manuels
+NL+Q, Chèques sortants imprimés à la banque
+NL+S, Paiement étranger spécial pour les manutentionnaires
+NL+T, Transfert bancaire extérieur sortant
+NL+U, Paiement urgent sortant
+NL+V, International - Dédouanement
+NL+W, Entrée - Spl. Transfert de fonds
+NL+X, Transférabilité de la banque intérieure sortante
+NL+Z, PAIEMENT EN USD 
+PL+2, Entrée - Débit direct A
+PL+3, Entrée - Transfert bancaire
+PL+B, Entrée - SEPA DD - B2B
+PL+E, Transfert bancaire SEPA sortant
+PL+I, Entrée - SEPA DD - CORE
+PL+J, Crédit direct pour les clients DD
+PL+K, Débit direct sortant
+PL+L, Paiement sortant des virements urgents (R
+PL+M, Manuel de paiement sortant
+PL+O, Paiements contrôlés des fournisseurs
+PL+P, Crédit ACH PPD
+PL+T, Transfert bancaire extérieur sortant
+PL+X, Transférabilité de la banque intérieure sortante
+PL+Z, Paiement dans PLD
+RU+0, Entrée - Débit direct B
+RU+1, Entrée - Chèque
+RU+2, Entrée - Débit direct A
+RU+3, Entrée - Transfert bancaire
+RU+4, Entrant - Argent comptant
+RU+7, Entrée - Lettre de crédit
+RU+8, Entrée - Nomenclature d'échange
+RU+9, Entrée - Banque Giro
+TH+A, ASR-Verfahren
+RU+B, Entrée - SEPA DD - B2B
+RU+I, Entrée - SEPA DD - CORE
+RU+J, Crédit direct pour les clients DD
+RU+K, Débit direct sortant
+RU+L, Paiement sortant des virements urgents (R
+RU+M, Manuel de paiement sortant
+RU+O, Paiements contrôlés des fournisseurs
+RU+T, Transfert bancaire extérieur sortant
+RU+X, Transférabilité de la banque intérieure sortante
+RU+Z, Paiement en USD
+TH+0, Entrée - DirDeb PostFinance
+TH+1, Entrée - Chèque
+TH+2, Entrée - Débit direct
+TH+3, Entrée - Transfert bancaire
+TH+4, Entrant - Argent comptant
+TH+5, Entrée - Lockbox
+TH+6, Entrée - Carte de crédit *1
+TH+7, Entrée - Lettre de crédit
+TH+8, Entrée - Nomenclature d'échange
+TH+9, Entrée - GIRO
+TH+B, Entrée - SEPA DD - B2B
+TH+C, Vérifier pour le bénéficiaire de climatisation seulement
+TH+E, DTA ESR-Verfahren (banque)
+TH+F, Débit direct postfinancement (DD)
+TH+G, Paiements GIRO
+TH+H, EZAG ESR-Verfahren (Postfin.)
+TH+I, Entrée - Débit direct de base
+TH+J, Crédit direct pour les clients DD
+TH+L, Nouveaux paiements GIRO-QR-IBAN
+TH+O, Paiements contrôlés des fournisseurs
+TH+Q, Chèques sortants imprimés à la banque
+TH+R, Paiement chimique
+TH+S, Même banque - Transfert de livre SCB
+TH+T, Transfert bancaire extérieur sortant
+TH+U, Paiement urgent sortant
+TH+X, Virement sortantBanque intérieure
+TH+Z, Paiement en USD
+TR+0, Entrée - Débit direct B
+TR+1, Entrée - Chèque
+TR+2, Entrée - Débit direct A
+TR+3, Entrée - Transfert bancaire
+TR+4, Entrant - Argent comptant
+TR+5, Entrée - Lockbox *2
+TR+7, Entrée - Lettre de crédit
+TR+8, Entrée - Nomenclature d'échange
+TR+9, Entrée - Banque Giro
+TR+B, Entrée - SEPA DD - B2B
+TR+C, Chèque sortant imprimé à l’interne
+TR+H, Espèces internes
+TR+I, Entrée - SEPA DD - CORE
+TR+J, Crédit direct pour les clients DD
+TR+K, Débit direct sortant
+TR+L, Paiement sortant des virements urgents (R
+TR+O, Paiements contrôlés des fournisseurs
+TR+Q, Chèques sortants imprimés à la banque
+TR+T, Transfert bancaire extérieur sortant
+TR+U, Paiement urgent sortant
+TR+X, Transférabilité de la banque intérieure sortante
+TR+Z, Paiement en USD
+PK+0, Entrée - Débit direct B
+PK+1, Entrée - Chèque
+PK+2, Entrée - Débit direct A
+PK+3, Entrée - Transfert bancaire
+PK+4, Entrant - Argent comptant
+PK+5, Entrée - Lockbox *2
+PK+6, Entrée - Carte de crédit *1
+PK+7, Entrée - Lettre de crédit
+PK+8, Entrée - Nomenclature d'échange
+PK+9, Entrée - Banque Giro
+PK+B, Entrée - SEPA DD - B2B
+PK+C, Chèque sortant imprimé à l’interne
+PK+F, FPKEDI toutes les devises
+PK+I, Entrée - SEPA DD - CORE
+PK+J, Crédit direct pour les clients DD
+PK+L, Paiement sortant des virements urgents (R
+PK+M, Manuel de paiement sortant
+PK+N, Paiement manuel sortant CIBC
+PK+O, Paiements contrôlés des fournisseurs
+PK+P, Crédit ACH PPD
+PK+Q, Chèques sortants imprimés à la banque
+PK+S, Même banque - Transfert de livre SCB
+PK+T, Transfert bancaire extérieur sortant
+PK+U, Paiement urgent sortant
+PK+X, Transférabilité de la banque intérieure sortante
+CH+0, Entrée - DirDeb PostFinance
+CH+1, Entrée - Chèque
+CH+2, Entrée - Débit direct
+CH+3, Entrée - Transfert bancaire
+CH+4, Entrant - Argent comptant
+CH+5, Entrée - Lockbox
+CH+6, Entrée - Carte de crédit *1
+CH+7, Entrée - Lettre de crédit
+CH+8, Entrée - Nomenclature d'échange
+CH+9, Entrée - GIRO
+CH+A, Vérifier
+CH+B, Entrée - SEPA DD - B2B
+CH+D, Débit direct postfinancement (MAUVAIS)
+CH+E, DTA ESR-Verfahren (banque)
+CH+F, Débit direct postfinancement (DD)
+CH+G, Paiements GIRO
+CH+H, EZAG ESR-Verfahren (Postfin.)
+CH+I, Entrée - Débit direct de base
+CH+J, Crédit direct pour les clients DD
+CH+K, Débit direct sortant
+CH+L, Nouveaux paiements GIRO-QR-IBAN
+CH+M, DTA Bank et PC-Konto
+CH+O, Paiements contrôlés des fournisseurs
+CH+P, Paiements manuels
+CH+S, Même banque - Transfert de livre SCB
+CH+T, Transfert bancaire extérieur sortant
+CH+U, Paiement urgent sortant
+CH+V, Verrechnung (im Konzern)
+CH+X, Virement sortantBanque intérieure
+CH+Z, Paiement en USD
